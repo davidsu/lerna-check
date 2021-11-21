@@ -1,3 +1,3 @@
 module.exports = {
-        go: () => {console.log('second')}
+        go: () => {console.log('third')}
 }
