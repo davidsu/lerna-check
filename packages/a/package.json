@@ -1,0 +1,11 @@
+{
+  "name": "a",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "David",
+  "license": "MIT",
+  "dependencies": {
+    "c_123456": "^1.0.0"
+  }
+}
